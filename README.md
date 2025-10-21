@@ -15,6 +15,6 @@ in your index.html add
 
 `<script defer src="agerating.js"></script>`
 
-then upload the contents of this repo into your webroot
+then upload the contents of this repo into your webroot so agerating folder is a folder inside your webroot and agerating.js is inside of your webroot
 
 then reload your page after clearing your cache
